@@ -1,3 +1,7 @@
 .card-items li {
   list-style-type: none;
 }
+.text{
+  color: white;
+  align-items: center;
+}
