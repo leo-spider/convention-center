@@ -2,6 +2,15 @@
   list-style-type: none;
 }
 .text{
-  color: white;
-  align-items: center;
+  color: grey;
+}
+.icons{
+  width: 200px;
+  /* margin-left: 800px; */
+
+}
+/* .text-app{ */
+  color: grey;
+  text-align: end;
+  margin-right: 170px;
 }
